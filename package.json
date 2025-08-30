@@ -1,0 +1,13 @@
+{
+    "name": "node-server",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "dev": "node --watch server.js"
+    },
+    "keywords": [],
+    "author": "Pedro Victor",
+    "license":"ISC",
+    "description": "Aula do FS-26, proposta de servidor web criado em sala de aula.",
+    "type": "module"
+}
